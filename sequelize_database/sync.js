@@ -4,7 +4,7 @@ import { operationsAPI } from "./operations.js";
 var database = new Sequelize(
   "reading_list",
   "root",
-  "proiect123",
+  "",
   {
     host: "localhost",
     dialect: "mariadb",
